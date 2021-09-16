@@ -1,0 +1,28 @@
+button{
+	background-color:black;
+  }
+  *{
+	color:white;
+	font-family: 'Indie Flower', cursive;
+  }
+  body{
+	background-image:url(https://get.pxhere.com/photo/horizon-sky-field-night-star-hill-dawn-atmosphere-dusk-night-sky-aurora-astronomy-astronomical-object-109887.jpg );
+  }
+  h1 {
+	  text-size-12st:unset; 
+	  font-size: 70px;
+  }
+  img {
+   position: center;
+   text-align: center;
+   border-image-width: 800px; height: 700px; 
+   
+  }
+  body {
+	  img {text-size-adjust: center;
+	  image-orientation: 50turn;
+	  color:white;
+  }
+   
+	
+	
